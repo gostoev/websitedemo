@@ -4,3 +4,9 @@ fonts
 index.html
 js
 ls.txt
+README.md
+css
+fonts
+index.html
+js
+ls.txt
